@@ -1,0 +1,7 @@
+streamlit
+pandas
+
+streamlit-aggrid
+label-studio
+pymongo
+json
