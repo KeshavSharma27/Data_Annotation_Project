@@ -1,0 +1,7 @@
+streamlit
+pandas
+
+label-studio
+pymongo
+fastapi uvicorn
+
